@@ -26,7 +26,9 @@ Repeat the Sequence: Click on the buttons in the same order as the sequence.
 
 # Technologies Used
 HTML5: For structuring the web page.
+
 CSS3: For styling the game and making it responsive.
+
 JavaScript: For game logic and interactivity.
 
 # Contributing
